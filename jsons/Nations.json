@@ -1,0 +1,31 @@
+[
+{
+		"name": "Confederate States of America",
+		"adjective": ["Southern Boys"],
+         "startBias": ["Desert", "Coast"],
+		"preferredVictoryType": "Domination",
+         "leaderName": "Jefferson Davis",
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "You fiend! History shall remember this!",
+		"outerColor": [0, 150, 0],
+		"innerColor": [150,0,0],
+		"cities": ["New Orleans", "Charleston", "Richmond", "Mobile", "Memphis", "Savannah", "Petersburg", "Nashville", "Alexandria", "Augusta", "Columbus"],
+		"startIntroPart1": "The Confederate States of America, commonly referred to as the Confederate States or the Confederacy, was an unrecognized breakaway state that existed from February 8, 1861, to May 9, 1865, and that fought against the United States of America during the American Civil War.",
+		
+		"declaringWar": "The demon wants the blood of soldiers!",
+		"attacked": "Oh well, I presume you know what you're doing.",
+		"defeated": "It is over. Perhaps now I shall have peace, at last.",
+		"introduction": "Are you real or a phantom?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [125,125,125],
+		"innerColor": [218,221,41], 
+		"uniqueName": "Dixie Land",
+		"uniques": ["+[45]% defensive strength for cities", "[Great General] is earned [35]% faster", "[+1 Food, +3 Production] from every [Plantation]"],
+	},
+]
