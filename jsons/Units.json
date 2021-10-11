@@ -1,0 +1,16 @@
+[
+   {
+		"name": "Confederate Rifleman",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Confederate States of America",
+		"movement": 3,
+		"strength": 44,
+		"cost": 215,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"promotions": ["March"],
+		"attackSound": "shot"
+	},
+]
