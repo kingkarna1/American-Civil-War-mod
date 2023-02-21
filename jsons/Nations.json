@@ -8,8 +8,8 @@
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "You fiend! History shall remember this!",
-		"outerColor": [1, 150, 1],
-		"innerColor": [150,1,1],
+		"outerColor": [118, 118, 118],
+		"innerColor": [219,222,51],
 		"cities": ["New Orleans", "Charleston", "Richmond", "Mobile", "Memphis", "Savannah", "Petersburg", "Nashville", "Alexandria", "Augusta", "Columbus"],
 		"startIntroPart1": "The Confederate States of America, commonly referred to as the Confederate States or the Confederacy, was an unrecognized breakaway state that existed from February 8, 1861, to May 9, 1865, and that fought against the United States of America during the American Civil War.",
 		
