@@ -26,6 +26,6 @@
 		"outerColor": [125,125,125],
 		"innerColor": [218,221,41], 
 		"uniqueName": "Dixie Land",
-		"uniques": ["+[45]% Defensive Strength for cities", "[Great General] is earned [35]% faster", "[+1 Food, +3 Production] from every [Plantation]"],
+		"uniques": ["[+45]% Strength for cities <when defending>", "[Great General] is earned [35]% faster", "[+1 Food, +3 Production] from every [Plantation]"],
 	},
 ]
